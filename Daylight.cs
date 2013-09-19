@@ -11,7 +11,7 @@
 *changes the light intensity and orientation every		*
 *update.												*
 *-------------------------------------------------------*/
-
+ 
 using UnityEngine;
 using System.Collections;
 
